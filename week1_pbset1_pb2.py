@@ -1,7 +1,7 @@
 
 """
 Problem 2
-0/10 points (graded)
+
 Assume s is a string of lower case characters.
 
 Write a program that prints the number of times the string 'bob'
